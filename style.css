@@ -622,9 +622,10 @@ html, body {
                 .section-6 .wrapper .row .col a .button button .text-btn span {
                   color: #fff; }
                   .section-6 .wrapper .row .col a .button button .text-btn span:first-child {
-                    font-size: 10px;
-                    font-size: 16px;
+                    font-size: 14px;
                     font-weight: bold; }
+                  .section-6 .wrapper .row .col a .button button .text-btn span:last-child {
+                    font-size: 11px; }
         .section-6 .wrapper .row .col .h3 {
           margin-bottom: 10px; }
       .section-6 .wrapper .row .last-section-col {
