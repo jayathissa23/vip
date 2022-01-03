@@ -594,12 +594,15 @@ html, body {
             right: 0;
             transform: rotatey(15deg); }
           .section-6 .wrapper .row .col .textbox .first-child {
-            font-size: 31px; }
+            font-size: 29px; }
             @media (max-width: 1000px) {
               .section-6 .wrapper .row .col .textbox .first-child {
                 font-size: 29px; } }
         .section-6 .wrapper .row .col h4 {
-          color: #57411A; }
+          color: #57411A;
+          font-size: 18px; }
+        .section-6 .wrapper .row .col h3 {
+          font-size: 21.5px; }
         .section-6 .wrapper .row .col a {
           text-decoration: none; }
           .section-6 .wrapper .row .col a .button {
